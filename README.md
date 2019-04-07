@@ -1,3 +1,3 @@
-# safe.ai
+# SafeAI
 
 install openCV
